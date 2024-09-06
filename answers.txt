@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: Git allows programmers working on the same project to work
+independently of each other, and maintains a history of the previous
+versions of that project.
