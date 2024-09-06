@@ -11,3 +11,10 @@ Answer: Data science can be applied to the medical field to track patient
 medical history and past and current diagnoses, helping doctors and
 medical professionals to better track their patients' health.
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging takes the changes from one branch and merges to another branch.
+Rebasing changes the point at which a branch was created to a new spot.
+
+
